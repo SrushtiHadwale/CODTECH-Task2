@@ -5,7 +5,7 @@
 ##### Duration: 25 september to 25 October 2024
 
 # Overview of the project
-## Project: Simple Calculator
+## Project: Student Grade Tracker
  ![image](https://github.com/user-attachments/assets/d3300337-16d1-4529-90f9-2768aa1adf2e)
 
 
